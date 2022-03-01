@@ -291,7 +291,6 @@ footer {
   padding-right: 15px;
 }
 
-/* burger menu */
 /* Burger Style Css */
 
 .burger_menu {
@@ -329,7 +328,6 @@ footer {
   margin-top: -6px;
 }
 
-/* baru */
 body.menu_active {
   overflow: hidden;
 }
