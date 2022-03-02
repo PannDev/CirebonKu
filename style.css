@@ -53,19 +53,17 @@ a {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  border-radius: 2px;
+  border-radius: 50%;
   cursor: pointer;
   transition: all 0.4s;
   width: 45px;
   height: 45px;
-  background: #008c5f
+  background: #000000
     url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z' fill='%23fff'/%3E%3C/svg%3E")
     no-repeat center center;
 }
 #ignielToTop:hover {
-  background: #2f303f
-    url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z' fill='%23fff'/%3E%3C/svg%3E")
-    no-repeat center center;
+  box-shadow: #ffffff 0px 0px 20px 0px;
 }
 /* yyiyiy */
 

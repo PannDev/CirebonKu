@@ -114,8 +114,8 @@
         margin-top: 15px;
     }
 
-    #ignielToTop {
-        width: 20px;
+    #ignielToTop:hover {
+        box-shadow: unset;
     }
 
     /* Burger Style */
