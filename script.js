@@ -11,7 +11,7 @@ window.onscroll = function () {
 }
 
 //   back to top
-var igniel_kecepatan = 1000; //kecepatan scroll
+var igniel_kecepatan = 300; //kecepatan scroll
 var igniel_jarak = 500; //posisi munculnya tombol
 eval(function (p, a, c, k, e, d) {
     e = function (c) {
